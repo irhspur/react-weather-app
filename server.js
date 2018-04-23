@@ -1,5 +1,3 @@
-import { hostname } from 'os';
-
 var express = require('express');
 
 // Create our app
